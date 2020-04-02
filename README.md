@@ -1,6 +1,6 @@
 # Jumlas
 
-**SB:** Tod project presentet un menghia om sambahsa textes tarjen do alter bahsas con id objective os skaue quosmed certain expression sont saygen. Est commun studyents uns bahsa kwehre questions kam *"quosmed saygo to in \<tarja-bahsa\>?"*, id idee tos project est solve salg questions. Mathalan: yu eiskwte woide quosmed est "se enligne" in sambahsa, yu maghte pites trehve tod expression in id collection med id function `paursk` *(biadet enwehrct med ia touches `Ctrl` + `F`)* ios software quod yu neudte kay vide ia textes. Yu maghte kaue od maung jumlas sont aun sem tarjens, ithan vies hehlp est sellgumt, bet pre submit quokwe, observe od ia bahsas sont in tod aurdhen:
+**SB:** Tod project presentet un menghia om sambahsa textes tarjen do alter bahsas con id objective os skaue quosmed certain expression sont saygen. Est commun studyents uns bahsa kwehre questions kam *"quosmed saygo to in \<tarja-bahsa\>?"*, id idee tos project est solve solg questions. Mathalan: yu eiskwt woide quosmed est "se enligne" in sambahsa, yu maghte pites trehve tod expression in id collection med id function `paursk` *(biadet enwehrct med ia touches `Ctrl` + `F`)* ios software quod yu neudte kay vide ia textes. Yu maghte kaue od maung jumlas sont aun sem tarjens, ithan vies hehlp est sellgumt, bet pre submit quokwe, observe od ia bahsas sont in tod aurdhen:
 
 (1) Sambahsa
 
@@ -14,7 +14,9 @@
 
 (6) Esperanto
 
-Weidwos od alter bahsas (we ir variations) sont sellgumt. Mathalan: id meist commun portughesche variation her est id brasileir, bet id europay variation poitt ses inclus in tod project. Dayir alter bahsas (kam suomen, japanese, yoruba, ukrainsk, etc), bi-sabab ter est un definiht aurdhen pro ia bahsas, est gohd prest-ye discutte id position ios nov bahsa (eger ne est exspecten od id project dacsiet maung nov bahsas oins-ye, baygh-shayad id nov bahsa occupesiet id senst position in id liste).
+Weidwos od alter bahsas (we ir variations) sont sellgumt. Mathalan: id meist commun portughesche variation her est id brasileir, bet id europay variation poitt ses inclus in tod project. Dayir alter bahsas (kam suomen, japanese, yoruba, ukrainsk, etc), bi-sabab ter est un definiht aurdhen pro ia bahsas, est gohd prest-ye discutte id position ios nov bahsa (eger ne est exspecten od id project dacsiet maung nov bahsas oins-ye, baygh-shayad id nov bahsa occupesiet id senst position in id liste). Bet plais mae eme maung leudhers in vies tarjems, semper peite produce textes derv ei original in sambahsa.
+
+[Clicke her kay accesse ia textes](jumlas.md)
 
 <hr>
 
@@ -32,7 +34,7 @@ Weidwos od alter bahsas (we ir variations) sont sellgumt. Mathalan: id meist com
 
 (6) Esperanto
 
-Of course that other languages (or their variations) are welcome. For example: the most common Portuguese variation here is the Brazilian one, but the European variation can be included in this project. Concerning other languages (like Finnish, Japanese, Yoruba, Ukrainian, etc), because of there is a defined order for the languages, it's good firstly discuss the position of the new language (since it's not expected that the project will receive many languages at one go, it is most likely that the new language will occupy the last position in the list).
+Of course that other languages (or their variations) are welcome. For example: the most common Portuguese variation here is the Brazilian one, but the European variation can be included in this project. Concerning other languages (like Finnish, Japanese, Yoruba, Ukrainian, etc), because of there is a defined order for the languages, it's good firstly discuss the position of the new language (since it's not expected that the project will receive many languages at one go, it is most likely that the new language will occupy the last position in the list). But please don't take many liberties in yor translations, always try to produce texts true to the original in Sambahsa.
 
 <hr>
 
@@ -50,7 +52,7 @@ Of course that other languages (or their variations) are welcome. For example: t
 
 (6) Esperanto
 
-É claro que outros idiomas (ou suas variações) são bem-vindos. Pr exemplo: a variação da língua portuguesa mais comum aqui é a brasileira, mas a variação europeia pode ser incluída neste projeto. No que diz respeito a outras línguas (como finlandês, japonês, yorubá, ucraniâno, etc), por haver uma ordem definida de idiomas, é bom primeiramente discutir a posição da nova língua (uma vez que não é esperado que o projeto receba muitos novos idiomas de uma só vez, muito provavelmente o novo idioma ocupará a última posição da lista)
+É claro que outros idiomas (ou suas variações) são bem-vindos. Pr exemplo: a variação da língua portuguesa mais comum aqui é a brasileira, mas a variação europeia pode ser incluída neste projeto. No que diz respeito a outras línguas (como finlandês, japonês, yorubá, ucraniâno, etc), por haver uma ordem definida de idiomas, é bom primeiramente discutir a posição da nova língua (uma vez que não é esperado que o projeto receba muitos novos idiomas de uma só vez, muito provavelmente o novo idioma ocupará a última posição da lista). Mas por favor não tome muitas liberdades em suas traduções, sempre tente produzir textos fieis ao original em sambahsa.
 
 <hr>
 
@@ -68,4 +70,4 @@ Of course that other languages (or their variations) are welcome. For example: t
 
 (6) Esperanto
 
-Kompreneble ol aliaj lingvoj (aŭ iliaj variaĵoj) estas bonveninta. Ekzemple: la plej comuna portugala variaĵo ĉi tie estas la portugala, sed la europa variaĵo povas esti enmetita en ĉi projekto. Pri aliaj lingvoj (kiel finna, japana, joruba, ukraina, ktp), pro estas definita ordo por la lingvoj, bonas unue diskuti la pozicion de la nova lingvo (ĉar ne estas esperita ol la projekto ricevos multajn lingvoj unufoje, treprobable la nova lingvo okupos la lastan pozicion en la listo
+Kompreneble ol aliaj lingvoj (aŭ iliaj variaĵoj) estas bonveninta. Ekzemple: la plej comuna portugala variaĵo ĉi tie estas la portugala, sed la europa variaĵo povas esti enmetita en ĉi projekto. Pri aliaj lingvoj (kiel finna, japana, joruba, ukraina, ktp), pro estas definita ordo por la lingvoj, bonas unue diskuti la pozicion de la nova lingvo (ĉar ne estas esperita ol la projekto ricevos multajn lingvoj unufoje, treprobable la nova lingvo okupos la lastan pozicion en la listo. Sed bonvolu ne prenu multajn liberecojn en viaj tradukoj, ĉiam penu produkti tekstojn fidela al originala en sambaso.
