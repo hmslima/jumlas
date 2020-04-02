@@ -36,6 +36,8 @@ Weidwos od alter bahsas (we ir variations) sont sellgumt. Mathalan: id meist com
 
 Of course that other languages (or their variations) are welcome. For example: the most common Portuguese variation here is the Brazilian one, but the European variation can be included in this project. Concerning other languages (like Finnish, Japanese, Yoruba, Ukrainian, etc), because of there is a defined order for the languages, it's good firstly discuss the position of the new language (since it's not expected that the project will receive many languages at one go, it is most likely that the new language will occupy the last position in the list). But please don't take many liberties in yor translations, always try to produce texts true to the original in Sambahsa.
 
+[Click here to access the texts](jumlas.md)
+
 <hr>
 
 **PT-BR:** Este projeto apresenta uma coleção de textos em sambahsa traduzidos para outros idiomas com o objetivo de mostrar como certas expressões são ditas. É comum estudantes de uma língua fazerem perguntas como *"como digo isso em \<língua-alvo\>?"*, a ideia deste projeto é resolver tais questões. Por exemplo: você quer saber como é "ficar online" em sambahsa, você pode tentar encontrar essa expressão na coleção através da função `localizar` *(geralmente ativada pelas teclas `Ctrl` + `F`)* do seu software que você usa para visualizar os textos. Você pode notar que muitas frases estão sem algumas traduções, então sua ajuda é bem-vinda, mas antes de submeter qualquer coisa, observe que os idiomas estão nessa ordem:
@@ -54,6 +56,8 @@ Of course that other languages (or their variations) are welcome. For example: t
 
 É claro que outros idiomas (ou suas variações) são bem-vindos. Pr exemplo: a variação da língua portuguesa mais comum aqui é a brasileira, mas a variação europeia pode ser incluída neste projeto. No que diz respeito a outras línguas (como finlandês, japonês, yorubá, ucraniâno, etc), por haver uma ordem definida de idiomas, é bom primeiramente discutir a posição da nova língua (uma vez que não é esperado que o projeto receba muitos novos idiomas de uma só vez, muito provavelmente o novo idioma ocupará a última posição da lista). Mas por favor não tome muitas liberdades em suas traduções, sempre tente produzir textos fieis ao original em sambahsa.
 
+[Clique aqui para acessar os textos](jumlas.md)
+
 <hr>
 
 **EO:** Ĉi tiu projekto prezentas kolekton de sambasaj tekstoj tradukitaj al aljaj lingvoj kun la celo montrigi kiel certaj esprimoj estas diritaj. Komunas ol lingvaj studentoj fari demandojn kiel *"kiel mi diras tion en \<celolingvo\>?"*, la ideo de ĉi projekto estas solvi tiajn demandojn. Ekzemple: vi volas scii kiel estas "konektiĝi" en sambaso, vi povas peni trovi ĉi esprimon en la kolekto per la kunkcio `serĉi` *(normale aktivigita de la klavoj `Ctrl` + `F`)* de via programo kiun vi uzas por vidi la tekstojn. Vi povas rimarki ol multaj frazoj estas sen kelkaj tradukoj, tiam via helpo estas bonveninta, sed antaŭe submeti ion, observu ol la lingvoj estas en ĉi ordo:
@@ -71,3 +75,5 @@ Of course that other languages (or their variations) are welcome. For example: t
 (6) Esperanto
 
 Kompreneble ol aliaj lingvoj (aŭ iliaj variaĵoj) estas bonveninta. Ekzemple: la plej comuna portugala variaĵo ĉi tie estas la portugala, sed la europa variaĵo povas esti enmetita en ĉi projekto. Pri aliaj lingvoj (kiel finna, japana, joruba, ukraina, ktp), pro estas definita ordo por la lingvoj, bonas unue diskuti la pozicion de la nova lingvo (ĉar ne estas esperita ol la projekto ricevos multajn lingvoj unufoje, treprobable la nova lingvo okupos la lastan pozicion en la listo. Sed bonvolu ne prenu multajn liberecojn en viaj tradukoj, ĉiam penu produkti tekstojn fidela al originala en sambaso.
+
+[Klaku ĉi tie por atingi la tekstojn](jumlas.md)
