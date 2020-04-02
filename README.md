@@ -34,7 +34,7 @@ Weidwos od alter bahsas (we ir variations) sont sellgumt. Mathalan: id meist com
 
 (6) Esperanto
 
-Of course that other languages (or their variations) are welcome. For example: the most common Portuguese variation here is the Brazilian one, but the European variation can be included in this project. Concerning other languages (like Finnish, Japanese, Yoruba, Ukrainian, etc), because of there is a defined order for the languages, it's good firstly discuss the position of the new language (since it's not expected that the project will receive many languages at one go, it is most likely that the new language will occupy the last position in the list). But please don't take many liberties in yor translations, always try to produce texts true to the original in Sambahsa.
+Of course that other languages (or their variations) are welcome. For example: the most common Portuguese variation here is the Brazilian one, but the European variation can be included in this project. Concerning other languages (like Finnish, Japanese, Yoruba, Ukrainian, etc), because of there is a defined order for the languages, it's good firstly discuss the position of the new language (since it's not expected that the project will receive many languages at one go, it is most likely that the new language will occupy the last position in the list). But please don't take many liberties in your translations, always try to produce texts true to the original in Sambahsa.
 
 [Click here to access the texts](jumlas.md)
 
