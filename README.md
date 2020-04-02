@@ -50,6 +50,8 @@ Of course that other languages (or their variations) are welcome. For example: t
 
 (6) Esperanto
 
+É claro que outros idiomas (ou suas variações) são bem-vindos. Pr exemplo: a variação da língua portuguesa mais comum aqui é a brasileira, mas a variação europeia pode ser incluída neste projeto. No que diz respeito a outras línguas (como finlandês, japonês, yorubá, ucraniâno, etc), por haver uma ordem definida de idiomas, é bom primeiramente discutir a posição da nova língua (uma vez que não é esperado que o projeto receba muitos novos idiomas de uma só vez, muito provavelmente o novo idioma ocupará a última posição da lista)
+
 <hr>
 
 **EO:** Ĉi tiu projekto prezentas kolekton de sambasaj tekstoj tradukitaj al aljaj lingvoj kun la celo montrigi kiel certaj esprimoj estas diritaj en ĉi tiu helplingvo. Komunas ol lingvaj studentoj fari demandojn kiel *"kiel mi diras tion en \<celolingvo\>?"*, la ideo de ĉi projekto estas solvi tiajn demandojn. Ekzemple: vi volas scii kiel estas "konektiĝi" en sambaso, vi povas peni trovi ĉi esprimon en la kolekto per la kunkcio `serĉi` *(normale aktivigita de la klavoj `Ctrl` + `F`)* de via programo kiun vi uzas por vidi la tekstojn. Vi povas rimarki ol multaj frazoj estas sen kelkaj tradukoj, tiam via helpo estas bonveninta, sed antaŭe submeti ion, observu ol la lingvoj estas en ĉi ordo:
@@ -65,3 +67,5 @@ Of course that other languages (or their variations) are welcome. For example: t
 (5) Franca
 
 (6) Esperanto
+
+Kompreneble ol aliaj lingvoj (aŭ iliaj variaĵoj) estas bonveninta. Ekzemple: la plej comuna portugala variaĵo ĉi tie estas la portugala, sed la europa variaĵo povas esti enmetita en ĉi projekto. Pri aliaj lingvoj (kiel finna, japana, joruba, ukraina, ktp), pro estas definita ordo por la lingvoj, bonas unue diskuti la pozicion de la nova lingvo (ĉar ne estas esperita ol la projekto ricevos multajn lingvoj unufoje, treprobable la nova lingvo okupos la lastan pozicion en la listo
