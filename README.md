@@ -1,6 +1,6 @@
 # Jumlas
 
-**SB:** Tod project presentet un menghia om sambahsa textes tarjen do alter bahsas con id objective os skaue quosmed certain expression sont saygen. Est commun studyents uns bahsa kwehre questions kam *"quosmed saygo to in \<tarja-bahsa\>?"*, id idee tos project est solve solg questions. Mathalan: sei yu eiskwt woide quosmed est "se enligne" in sambahsa, yu maghte pites trehve tod expression in id collection med id function `paursk` *(biadet enwehrct med ia touches `Ctrl` + `F`)* ios software quod yu neudte kay vide ia textes. Yu maghte kaue od maung jumlas sont aun sem tarjens, ithan vies hehlp est sellgumt, bet pre submit quokwe, observe od ia bahsas sont in tod aurdhen:
+**SB:** Tod project presentet un menghia om sambahsa textes tarjen do alter bahsas con id objective os skaue quosmed certain expressions sont saygen. Est commun studyents uns bahsa kwehre questions kam *"quosmed saygo to in \<tarja-bahsa\>?"*, id idee tos project est solve solg questions. Mathalan: sei yu eiskwt woide quosmed est "se enligne" in sambahsa, yu maghte pites trehve tod expression in id collection med id function `paursk` *(biadet enwehrct med ia touches `Ctrl` + `F`)* ios software quod yu neudte kay vide ia textes. Yu maghte kaue od maung jumlas sont aun sem tarjens, ithan vies hehlp est sellgumt, bet pre submit quokwe, observe od ia bahsas sont in tod aurdhen:
 
 (1) Sambahsa
 
