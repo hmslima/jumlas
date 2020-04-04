@@ -14,7 +14,7 @@
 
 (6) Esperanto
 
-Weidwos od alter bahsas (we ir variations) sont sellgumt. Mathalan: id meist commun portughesche variation her est id brasileir, bet id europay variation poitt ses inclus in tod project. Dayir alter bahsas (kam suomen, japanese, yoruba, ukrainsk, etc), bi-sabab ter est un definiht aurdhen pro ia bahsas, est gohd prest-ye discutte id position ios nov bahsa (eger ne est exspecten od id project dacsiet maung nov bahsas unte oin schtoss, baygh-shayad id nov bahsa occupesiet id senst position in id liste). Bet plais mae eme maung leudhers in vies tarjems, semper peite produce textes derv ei original in sambahsa.
+Weidwos od alter bahsas (we ir variations) sont sellgumt. Mathalan: id meist commun portughesche variation her est id brasileir, bet id europay variation poitt ses inclus in tod project. Dayir alter bahsas (kam suomen, japanese, yoruba, ukrainsk, etc), bi-sabab ter est un definiht aurdhen pro ia bahsas, est gohd prest-ye discutte id position ios nov bahsa (eger ne est exspecten od id project dacsiet maung nov bahsas unte oin schtoss, meg shayad id nov bahsa occupesiet id senst position in id liste). Bet plais mae eme maung leudhers in vies tarjems, semper peite produce textes derv ei original in sambahsa.
 
 [Clicke her kay accesse ia textes](jumlas.md)
 
