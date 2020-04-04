@@ -137,3 +137,35 @@
 **EN:** She has the gift of the gab. She should work in sales and marketing
 
 **PT-BR:** Ela tem lábia. Deveria trabalhar em venda e marketing
+
+.
+
+**SB:** Ed quayque to ghehdt ses un schawngdanend proposen, est important mehme od gradual change producsiet resultats meis posdaril quem un peiten os alnos revide id hol systeme unte oin schtoss
+
+**EN:** And while this can be a daunting proposition, it is important to remember that gradual change will produce more sustainable results than an attempt to completely overhaul the whole system in one go
+
+**PT-BR:** Embora esta possa ser uma proposta desanimadora, é importante lembrar que mudança gradual produzirá resultados mais sustentáveis do que uma tentativa de revisar completamente todo o sistema, de uma só vez
+
+.
+
+**SB:** Meg shayad vaht suyes cras
+
+**EN:** It is most likely going to rain tomorrow
+
+**PT-BR:** Muito provavelmente vai chover amanhã
+
+.
+
+**SB:** Emsiemos id lure os anances iter alterations in tod sense in id plenar
+
+**EN:** We shall take the liberty of re-tabling amendments along those lines in plenary
+
+**PT-BR:** Iremos tomar a liberdade de apresentar de novo alterações neste sentido no plenário
+
+.
+
+**SB:** Architectes sont brilliant kay solve problemes, sei myehrsmos ses kienkiu
+
+**PT-BR:** Descubra quem são os vilões e os mocinhos e encontre um jeito para que eles convivam em paz!
+
+**FR:** Découvrez qui sont les méchants et les gentils, et faites en sorte qu'ils arrivent à s'entendre... Ou pas !
