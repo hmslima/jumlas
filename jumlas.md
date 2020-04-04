@@ -4,9 +4,11 @@
 
 **PT-BR:** Os arquitetos são brilhantes para solucionar problemas, modéstia à parte
 
-**ES:** Los arquitectos son brillantes solucionadores de problemas, dejando de lado la modestia
+**ES:** Los arquitectos son magníficos a la hora de resolver problemas, modestia aparte
 
 **FR:** Les architectes sont de brillants résolveurs de problèmes, toute modestie mise à part
+
+**EO:** Arĥitektoj brile solvas problemojn, se mi rajtas tre humile diri *(aŭ "...,sengloreme" aŭ "...,malhumileco aparte")*
 
 .
 
