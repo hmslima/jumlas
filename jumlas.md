@@ -1,3 +1,15 @@
+**SB:** Architectes sont brilliant kay solve problemes, sei myehrsmos ses kienkiu
+
+**EN:** Architects are brilliant problem solvers, if I may say so myself
+
+**PT-BR:** Os arquitetos são brilhantes para solucionar problemas, modéstia à parte
+
+**ES:** Los arquitectos son brillantes solucionadores de problemas, dejando de lado la modestia
+
+**FR:** Les architectes sont de brillants résolveurs de problèmes, toute modestie mise à part
+
+.
+
 **SB:** feug- kam un fur
 
 **EN:** taking French leave
