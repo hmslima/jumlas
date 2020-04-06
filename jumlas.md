@@ -169,3 +169,35 @@
 **PT-BR:** Descubra quem são os vilões e os mocinhos e encontre um jeito para que eles convivam em paz!
 
 **FR:** Découvrez qui sont les méchants et les gentils, et faites en sorte qu'ils arrivent à s'entendre... Ou pas !
+
+.
+
+**SB:** Realwakto gwistikan pro ghitarr, bassghitarr, ed alya fretten barbith
+
+**EN:** Real-time fingering for guitar, bass, and other fretted string instruments
+
+**PT-BR:** Dedilhado em tempo-real para guitarra, baixo, e outros instrumentos de cordas com trastos
+
+.
+
+**SB:** Ia raudata ne buir bad beorbat ab id software
+
+**EN:** The raw data have not been processed by the software yet
+
+**PT-BR:** Os dados brutos ainda não foram processados pelo software
+
+.
+
+**SB:** Swehdo mane pior diu in id dusch
+
+**EN:** I usually take too long in the shower
+
+**PT-BR:** Eu costumo demorar muito no banho
+
+.
+
+**SB:** Woid yu od kwehndo claustrophobia ed od yu vahte sines me nehce asphyxyen?
+
+**EN:** You know I suffer from claustrophobia and you will let me die asphyxiated?
+
+**PT-BR:** Você sabe que eu sofro de claustrofobia e vai me deixar morrer asfixiado?
